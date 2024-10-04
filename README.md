@@ -5,6 +5,7 @@
 - 📫 How to reach me ... anil23106@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- phone number: ... 9390979128
 
 <!---
 anil5453/anil5453 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
