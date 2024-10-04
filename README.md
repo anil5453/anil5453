@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - phone number: ... 9390979128
+- resume : .... [resume]([url](https://github.com/anil5453/protfolio.git))
 
 <!---
 anil5453/anil5453 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
